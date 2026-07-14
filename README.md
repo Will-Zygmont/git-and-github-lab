@@ -1,2 +1,2 @@
 # Sales Report
-Daily sales analysis.
+Daily sales analysis of past data to improve forecasting.
